@@ -1,4 +1,7 @@
-# Tableau_visualization
+# Netflix
+
+Introduction:
+This dashboard presents a detailed analysis of Netflix's content library, offering insights into genre distribution, user ratings, release years, and regional availability. Designed for interactive exploration, it enables users to delve into the diversity and evolution of Netflix's offerings. This tool is invaluable for analysts, marketers, and industry professionals interested in understanding the streaming service's content strategy and audience preferences.
 
 PDF file for the dashboard:
 [Netflix - Analysis (Dashboard).pdf](https://github.com/aditya0798/Tableau_visualization/files/13782104/Netflix.-.Analysis.Dashboard.pdf)
