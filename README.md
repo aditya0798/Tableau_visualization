@@ -1,3 +1,4 @@
+#Introduction to my repository:
 Welcome to my GitHub repository, a curated collection of Tableau dashboard projects. Each project in this repository showcases my skills in data visualization and analytics, demonstrating a deep understanding of how to transform raw data into meaningful insights. These dashboards span various themes and industries, reflecting my ability to adapt and create compelling stories from data. Whether you're a fellow data enthusiast, potential employer, or just curious, I invite you to explore these interactive visualizations and discover the stories they tell.
 
 
