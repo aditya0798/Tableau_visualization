@@ -17,9 +17,9 @@ https://public.tableau.com/views/Netflix-Analysis_17027989045180/Dashboard1?:lan
 Introduction: 
 This dashboard offers a detailed examination of sales performance across multiple metrics. This interactive tool is designed for insights into sales volumes, revenue trends, customer demographics, and product performance. It serves as a crucial resource for sales managers and business analysts, enabling them to make informed decisions and refine sales strategies for enhanced business outcomes. Explore this dashboard to understand how data-driven approaches can optimize sales and improve overall business efficiency.
 
-PDF file for the dashboard:[Sales data analysis - dashboard.pdf](https://github.com/aditya0798/Tableau_visualization/files/13782189/Sales.data.analysis.-.dashboard.pdf)
+PDF file for the dashboard: [Sales data analysis - dashboard.pdf](https://github.com/aditya0798/Tableau_visualization/files/13782189/Sales.data.analysis.-.dashboard.pdf)
 
-Tableau Public Link for the project:
+Tableau Public Link for the project: https://public.tableau.com/views/Salesdataanalysis_17029180207040/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 
 
